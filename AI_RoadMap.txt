@@ -1,0 +1,70 @@
+Programming
+Maths 
+Statistics
+
+Python
+SQL
+DSA
+Git
+Machine Learning
+Deep Learning
+NLP
+Computer Vision
+ML Ops
+
+RoadMap 
+Python - [Link]
+Python Excercises - https://github.com/codebasics/py/tree/master/Basics/Exercise
+DSA - https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
+Python Advanced - [Link]
+SQL - [Link]
+SQL Challenge - https://codebasics.io/challenge/codebasics-resume-project-challenge/7
+Numpy
+Pandas
+Data Visualization - Matplotlib, Seaborn
+Maths - https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l
+Probability & Statistics - https://www.khanacademy.org/math/statistics-probability
+EDA - [Link]
+EDA Challenge - https://www.kaggle.com/datasets/rishabhkarn/ipl-auction-2023/data
+Machine Learning - [Link]
+MLOps
+Deep Learning with Tensorflow - https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
+Deep Learning with Pytorch - https://www.youtube.com/watch?v=VaQmVHXPTlE&list=PLOrU905yPYXJsJSHJsiE779KfcrRCgz4v&index=1
+Deeo Learning Project - https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S
+NLP - https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX
+LLM - Langchain - https://www.youtube.com/playlist?list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F
+
+
+
+
+Simple AI RoadMap with Coursera by Sahil & Sarra - YouTube 
+
+1. Mathmatics - 70 hours
+	a. Linear Algebra - 18 hours
+	b. Calculus - 17 hours
+	c. PCA - 20 hours
+	d, Datascience Math - 13 hours
+2. Statistics - 14 hours
+3. Python - 25 hours
+4. Machine Learning - 100 hours
+	a. Supervised Machine Learning - 33 hours
+	b. Advanced Learning Algorithms - 34 hours
+	c. Unsupervised Learning - 27 hours
+5. Deep Learning - 130 hours
+	a. Neural Networks - 24 hours
+	b. Improving Deep Neural Networks - 23 hours
+	c. Structuring ML Objects - 6 hours
+	d. Convolutional Neural Networks - 35 hours
+	e. Sequence Models - 37 hours
+6. Additional - 100 hours
+	a. SQL, MySQL, PostgreSQL, NoSQL
+	b. MLOps
+	c. MongoDB, BigData, Cassandra, Dynamo DB
+	d. Fullstack 
+		1. HTML, CSS, Javascript - 10 hours
+		2. React - 14 hours
+		4. Python Flask - 11 hours
+		5. Python Django - 14 hours
+7. Gen AI - 30 hours
+
+Daily 2 Hours Atleast
